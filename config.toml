@@ -2,6 +2,7 @@ baseurl = "localhost:1313"
 title = "The Scene Lives"
 theme = "nederburg"
 languageCode = "en-us"
+publishDir = "docs"
 # Enable comments by entering your Disqus shortname
 disqusShortname = ""
 # Enable Google Analytics by entering your tracking code
