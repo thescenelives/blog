@@ -2,50 +2,50 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on The Scene Lives</title>
-    <link>localhost:1313/post/</link>
+    <link>https://thescenelives.github.io/blog/post/</link>
     <description>Recent content in Posts on The Scene Lives</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 20 Apr 2018 18:25:22 +0530</lastBuildDate>
     
-	<atom:link href="localhost:1313/post/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://thescenelives.github.io/blog/post/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>BOOM KINETIC: Hot Fuss!</title>
-      <link>localhost:1313/post/work1/</link>
+      <link>https://thescenelives.github.io/blog/post/work1/</link>
       <pubDate>Fri, 20 Apr 2018 18:25:22 +0530</pubDate>
       
-      <guid>localhost:1313/post/work1/</guid>
+      <guid>https://thescenelives.github.io/blog/post/work1/</guid>
       <description>Boom Kinetic is way more than a cover band. A Boom Kinetic set can last anywhere from two to four hours with no breaks in the music. Their song list contains any song a major artist has played in their encore set in the last 40 years. Its almost overwhelming! The energy in the room is like a roller coaster that never seems to come down. If you find yourself at Boom show by the end of the night you will be worn out from singing every word to every song and memorized by the perfectly synced up light show that rivals most arena bands.</description>
     </item>
     
     <item>
       <title>The Mansion Family: Always a Good Round Them </title>
-      <link>localhost:1313/post/work2/</link>
+      <link>https://thescenelives.github.io/blog/post/work2/</link>
       <pubDate>Thu, 19 Apr 2018 18:25:22 +0530</pubDate>
       
-      <guid>localhost:1313/post/work2/</guid>
+      <guid>https://thescenelives.github.io/blog/post/work2/</guid>
       <description>The Mansion Family hails from Marshall Texas. You could say they are a both little bit country and little bit Rock &amp;lsquo;n&amp;rsquo; Roll. Either way, they have a sound that can fill a room and get it dancing.
 Members of the band are Chris Dean, Eric Gardner, Kasey Brown, John Fox, Nick Brumley, and Sam Kilpatrick. They are true their musical heritage with an upright bass holding down the rhythm section.</description>
     </item>
     
     <item>
       <title>AMORE: The Boys Are Back In Town</title>
-      <link>localhost:1313/post/work3/</link>
+      <link>https://thescenelives.github.io/blog/post/work3/</link>
       <pubDate>Wed, 18 Apr 2018 18:25:22 +0530</pubDate>
       
-      <guid>localhost:1313/post/work3/</guid>
+      <guid>https://thescenelives.github.io/blog/post/work3/</guid>
       <description>After 2010, the live music scene in Little Rock, Ar was fading. The last beacon of hope was Downtown Music Hall. There, the band AMORE made their debut in a battle of the bands the competition. The band consisted of member of After The Tragedy, Joel, Cody, and James. The band was a short lived project but held its own in the locale music scene
 They produced an album called &amp;ldquo; Dropping The L Word.</description>
     </item>
     
     <item>
       <title>The Legend Of After The Tragedy: The Scene&#39;s Awaking</title>
-      <link>localhost:1313/post/work4/</link>
+      <link>https://thescenelives.github.io/blog/post/work4/</link>
       <pubDate>Tue, 17 Apr 2018 18:25:22 +0530</pubDate>
       
-      <guid>localhost:1313/post/work4/</guid>
+      <guid>https://thescenelives.github.io/blog/post/work4/</guid>
       <description>After getting dumped by my high school girlfriend turned fiancé, I found myself at a strange place in life. I was 19, just a year out of high school and I had no direction or purpose to speak of. On a whim, I decided to try art but soon realized I could not draw or paint.
 I wondered into the locale camera store and walked out with a $1500 digital camera.</description>
     </item>

@@ -3,49 +3,49 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>localhost:1313/post/work1/</loc>
+    <loc>https://thescenelives.github.io/blog/post/work1/</loc>
     <lastmod>2018-04-20T18:25:22+05:30</lastmod>
   </url>
   
   <url>
-    <loc>localhost:1313/post/work2/</loc>
+    <loc>https://thescenelives.github.io/blog/post/work2/</loc>
     <lastmod>2018-04-19T18:25:22+05:30</lastmod>
   </url>
   
   <url>
-    <loc>localhost:1313/post/work3/</loc>
+    <loc>https://thescenelives.github.io/blog/post/work3/</loc>
     <lastmod>2018-04-18T18:25:22+05:30</lastmod>
   </url>
   
   <url>
-    <loc>localhost:1313/post/work4/</loc>
+    <loc>https://thescenelives.github.io/blog/post/work4/</loc>
     <lastmod>2018-04-17T18:25:22+05:30</lastmod>
   </url>
   
   <url>
-    <loc>localhost:1313/categories/</loc>
+    <loc>https://thescenelives.github.io/blog/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>localhost:1313/categories/photography/</loc>
+    <loc>https://thescenelives.github.io/blog/categories/photography/</loc>
     <lastmod>2018-04-20T18:25:22+05:30</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>localhost:1313/post/</loc>
+    <loc>https://thescenelives.github.io/blog/post/</loc>
     <lastmod>2018-04-20T18:25:22+05:30</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>localhost:1313/tags/</loc>
+    <loc>https://thescenelives.github.io/blog/tags/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>localhost:1313/</loc>
+    <loc>https://thescenelives.github.io/blog/</loc>
     <lastmod>2018-04-20T18:25:22+05:30</lastmod>
     <priority>0</priority>
   </url>

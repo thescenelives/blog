@@ -9,6 +9,7 @@ disqusShortname = ""
 googleAnalytics = ""
 preserveTaxonomyNames = true
 paginate = 5 #frontpage pagination
+baseURL = "https://thescenelives.github.io/blog/"
 
 [params]
   slogan = "by Matt Snider"
